@@ -8,4 +8,4 @@ Do note that you would need to have the datasets yourself as I am not allowed to
 
 If you would like to download my best performing model, you can do so [here](https://drive.google.com/file/d/12X7ruypENN5Sr6fJgNI5YL4qj1JAMDZi/view?usp=drive_link).
 
-If would like to read about my work, you can do so [here](<https://github.com/JohnCXH/Final-Year-Project/blob/master/John%20Chieng%20Xiang%20Hao%2020300676_Final%20Report%20-%202024.pdf>)
+If you are here just to read about my work, you can do so [here](<https://github.com/JohnCXH/Final-Year-Project/blob/master/John%20Chieng%20Xiang%20Hao%2020300676_Final%20Report%20-%202024.pdf>)
